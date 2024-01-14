@@ -26,6 +26,11 @@ The user interface is designed with a focus on responsiveness and intuitiveness.
 
 As users scroll through the available styles, the app dynamically updates the visual feedback by highlighting the selected style with a distinctive border. This real-time feedback enhances the user experience, providing a clear indication of the chosen style.
 
+### Watch The Demo Below!
+
+[![Watch the demo](https://img.youtube.com/vi/RfQn5DESwiM/0.jpg)](https://youtu.be/RfQn5DESwiM)
+
+
 ## Getting Started
 
 ### Prerequisites
